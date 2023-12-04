@@ -10,7 +10,7 @@ const CartPage = () => {
         
         {/* SINGLE ITEM */}
         <div className="flex items-center justify-between mb-4">
-          {/* <Image src="/temporary/p1.png" alt="" width={100} height={100} /> */}
+    
           <Image src="/pictures/pizza2.jpg" alt="" width={100} height={100} />
           <div className="">
             <h1 className="uppercase text-xl font-bold">Pizza</h1>
@@ -22,7 +22,7 @@ const CartPage = () => {
 
         {/* SINGLE ITEM */}
         <div className="flex items-center justify-between mb-4">
-          {/* <Image src="/temporary/p1.png" alt="" width={100} height={100} /> */}
+
           <Image src="/pictures/momos.jpg" alt="" width={100} height={100} />
           <div className="">
             <h1 className="uppercase text-xl font-bold">Momos</h1>
@@ -34,8 +34,7 @@ const CartPage = () => {
 
         {/* SINGLE ITEM */}
         <div className="flex items-center justify-between mb-4">
-          {/* <Image src="/temporary/p1.png" alt="" width={100} height={100} /> */}
-          {/* <Image src="/pictures/pizza2.jpg" alt="" width={100} height={100} /> */}
+
           <Image src="/pictures/paneerbuttermasala.jpg" alt="" width={100} height={100} />
           <div className="">
             <h1 className="uppercase text-xl font-bold">Paneer Butter Masala</h1>
